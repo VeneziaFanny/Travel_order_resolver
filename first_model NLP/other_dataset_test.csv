@@ -1,0 +1,472 @@
+sentence,label
+"J'ai besoin de prendre le train à Paris pour aller à Lyon.",1
+"Je vais partir de Marseille et me rendre à Nice en voiture par la route des Crêtes.",1
+"Mon voyage commence à Bordeaux et se termine à Toulouse en passant par Limoges.",1
+"Je pars de Strasbourg pour rejoindre Berlin en passant par Francfort.",1
+"De Montpellier, j'irai à Barcelone en empruntant l'autoroute du Soleil.",1
+"J'ai prévu de quitter Lille pour me rendre à Bruxelles via Valenciennes.",1
+"Mon itinéraire va de Rennes à Brest en passant par Saint-Brieuc.",1
+"Je vais partir de Lyon pour arriver à Genève en empruntant la route des Crêtes.",1
+"De Nantes, je me rendrai à La Rochelle en passant par Niort.",1
+"J'ai prévu de prendre le train à Reims pour aller à Strasbourg.",1
+"Mon voyage commence à Aix-en-Provence et se termine à Avignon.",1
+"Je pars de Besançon pour rejoindre Mulhouse en passant par Dijon.",1
+"De Clermont-Ferrand, j'irai à Montpellier en empruntant l'autoroute du Soleil.",1
+"J'ai prévu de quitter Rouen pour se rendre à Caen via Le Havre.",1
+"Mon itinéraire va de Toulouse à Pau en passant par Tarbes.",1
+"Je vais partir de Nancy pour arriver à Metz en empruntant la route des Vosges.",1
+"De Brest, je me rendrai à Quimper en passant par Lorient.",1
+"J'ai prévu de prendre le train à Grenoble pour aller à Annecy.",1
+"Mon voyage commence à Limoges et se termine à Poitiers en passant par Angoulême.",1
+"Je pars de Dijon pour rejoindre Nevers en passant par Auxerre.",1
+"De Montélimar, j'irai à Valence en empruntant l'autoroute du Soleil.",1
+"J'ai prévu de quitter Le Mans pour se rendre à Rennes via Angers.",1
+"Mon itinéraire va de Perpignan à Carcassonne en passant par Narbonne.",1
+"Je vais partir de Reims pour arriver à Luxembourg en passant par Metz.",1
+"De Tours, je me rendrai à Orléans en passant par Blois.",1
+"J'ai prévu de prendre le train à Strasbourg pour aller à Colmar.",1
+"Mon voyage commence à Nice et se termine à Cannes en passant par Antibes.",1
+"Je pars de Rouen pour rejoindre Le Havre en passant par Dieppe.",1
+"De Bordeaux, j'irai à Toulouse en empruntant la route des Vignobles.",1
+"J'ai prévu de quitter Lorient pour se rendre à Quimper via Vannes.",1
+"Mon itinéraire va de Nîmes à Avignon en passant par Orange.",1
+"Je vais partir de Metz pour arriver à Nancy en empruntant la route des Vosges.",1
+"De Rennes, je me rendrai à Saint-Malo en passant par Dinan.",1
+"J'ai prévu de prendre le train à Mulhouse pour aller à Colmar.",1
+"Mon voyage commence à Brest et se termine à Quimper en passant par Lorient.",1
+"Je pars de Besançon pour rejoindre Dijon en passant par Auxerre.",1
+"De Limoges, j'irai à Brive-la-Gaillarde en empruntant la route des Vignobles.",1
+"J'ai prévu de quitter Annecy pour se rendre à Chambéry via Albertville.",1
+"Mon itinéraire va de Poitiers à Angoulême en passant par Cognac.",1
+"Je vais partir de Strasbourg pour arriver à Sarrebruck en passant par Saarbrücken.",1
+"De Tours, je me rendrai à Blois en passant par Orléans.",1
+"J'ai prévu de prendre le train à Nevers pour aller à Bourges.",1
+"Mon voyage commence à Perpignan et se termine à Barcelone en passant par Gérone.",1
+"Je pars de Reims pour rejoindre Charleville-Mézières en passant par Sedan.",1
+"De Nice, j'irai à Cannes en passant par Antibes.",1
+"J'ai prévu de quitter Grenoble pour se rendre à Gap via Briançon.",1
+"Mon itinéraire va de Nantes à Rennes en passant par Angers.",1
+"Je vais partir de Metz pour arriver à Nancy en empruntant la route des Vosges.",1
+"De Montélimar, j'irai à Valence en passant par Crest.",1
+"J'ai prévu de prendre le train à Dijon pour aller à Besançon.",1
+"Mon voyage commence à Lille et se termine à Bruxelles en passant par Tournai.",1
+"Je pars de Nancy pour rejoindre Strasbourg en passant par Colmar.",1
+"De Bordeaux, j'irai à Pau en empruntant la route des Vignobles.",1
+"J'ai prévu de quitter Rennes pour se rendre à Saint-Malo via Dinan.",1
+"Mon itinéraire va de Clermont-Ferrand à Montpellier en passant par Nîmes.",1
+"Je vais partir de Besançon pour arriver à Mulhouse en passant par Belfort.",1
+"De Tours, je me rendrai à Orléans en passant par Blois.",1
+"J'ai prévu de prendre le train à Nevers pour aller à Bourges.",1
+"Mon voyage commence à Nice et se termine à Cannes en passant par Antibes.",1
+"Je pars de Reims pour rejoindre Charleville-Mézières en passant par Sedan.",1
+"De Limoges, j'irai à Brive-la-Gaillarde en passant par Uzerche.",1
+"J'ai prévu de quitter Annecy pour se rendre à Chambéry via Albertville.",1
+"Mon itinéraire va de Poitiers à Angoulême en passant par Cognac.",1
+"Je vais partir de Metz pour arriver à Luxembourg en passant par Thionville.",1
+"De Montélimar, j'irai à Valence en passant par Crest.",1
+"J'ai prévu de prendre le train à Dijon pour aller à Besançon.",1
+"Mon voyage commence à Lorient et se termine à Quimper en passant par Vannes.",1
+"Je pars de Nancy pour rejoindre Strasbourg en passant par Colmar.",1
+"De Tours, je me rendrai à Orléans en passant par Blois.",1
+"J'ai prévu de quitter Rennes pour se rendre à Saint-Malo via Dinan.",1
+"Mon itinéraire va de Clermont-Ferrand à Montpellier en passant par Nîmes.",1
+"Je vais partir de Besançon pour arriver à Mulhouse en passant par Belfort.",1
+"De Limoges, j'irai à Brive-la-Gaillarde en passant par Uzerche.",1
+"J'ai prévu de prendre le train à Nevers pour aller à Bourges.",1
+"Mon voyage commence à Nice et se termine à Cannes en passant par Antibes.",1
+"Je pars de Reims pour rejoindre Charleville-Mézières en passant par Sedan.",1
+"De Bordeaux, j'irai à Pau en empruntant la route des Vignobles.",1
+"J'ai prévu de quitter Annecy pour se rendre à Chambéry via Albertville.",1
+"Mon itinéraire va de Poitiers à Angoulême en passant par Cognac.",1
+"Je vais partir de Metz pour arriver à Luxembourg en passant par Thionville.",1
+"De Montélimar, j'irai à Valence en passant par Crest.",1
+"J'ai prévu de prendre le train à Dijon pour aller à Besançon.",1
+"Mon voyage commence à Lorient et se termine à Quimper en passant par Vannes.",1
+"Je pars de Nancy pour rejoindre Strasbourg en passant par Colmar.",1
+"De Tours, je me rendrai à Orléans en passant par Blois.",1
+"J'ai prévu de quitter Rennes pour se rendre à Saint-Malo via Dinan.",1
+"Mon itinéraire va de Clermont-Ferrand à Montpellier en passant par Nîmes.",1
+"Je vais partir de Besançon pour arriver à Mulhouse en passant par Belfort.",1
+"De Limoges, j'irai à Brive-la-Gaillarde en passant par Uzerche.",1
+"J'ai prévu de prendre le train à Nevers pour aller à Bourges.",1
+"Mon voyage commence à Nice et se termine à Cannes en passant par Antibes.",1
+"Je pars de Reims pour rejoindre Charleville-Mézières en passant par Sedan.",1
+"De Bordeaux, j'irai à Pau en empruntant la route des Vignobles.",1
+"J'ai prévu de quitter Annecy pour se rendre à Chambéry via Albertville.",1
+"Mon itinéraire va de Poitiers à Angoulême en passant par Cognac.",1
+"Je vais partir de Metz pour arriver à Luxembourg en passant par Thionville.",1
+"De Montélimar, j'irai à Valence en passant par Crest.",1
+"J'ai prévu de prendre le train à Dijon pour aller à Besançon.",1
+"Mon voyage commence à Lorient et se termine à Quimper en passant par Vannes.",1
+"Je pars de Nancy pour rejoindre Strasbourg en passant par Colmar.",1
+"De Tours, je me rendrai à Orléans en passant par Blois.",1
+"J'ai prévu de quitter Rennes pour se rendre à Saint-Malo via Dinan.",1
+"Mon itinéraire va de Clermont-Ferrand à Montpellier en passant par Nîmes.",1
+"Je vais partir de Besançon pour arriver à Mulhouse en passant par Belfort.",1
+"De Limoges, j'irai à Brive-la-Gaillarde en passant par Uzerche.",1
+"J'ai prévu de prendre le train à Nevers pour aller à Bourges.",1
+"Je suis prêt à quitter mon appartement à Paris pour me rendre à la maison familiale à Perpignan.",1
+"J'ai besoin de prendre le train à Lyon pour aller travailler à Genève.",1
+"Je vais déménager de ma petite chambre à Bordeaux pour une maison plus grande à Toulouse.",1
+"Je vais partir de ma famille à Marseille pour rejoindre mon conjoint à Lyon.",1
+"Mon voyage commence à la gare de Strasbourg et se termine au port de Colmar.",1
+"Je pars de mon appartement à Lille pour aller travailler à Bruxelles.",1
+"J'ai besoin de prendre le train à Reims pour aller travailler à Berlin.",1
+"Je vais déménager de ma maison à Rennes pour une appartement à Brest.",1
+"Mon voyage commence au port de Saint-Malo et se termine à l'aéroport de Rennes.",1
+"Je pars de mon travail à Clermont-Ferrand pour rejoindre mon conjoint à Montpellier.",1
+"J'ai besoin de prendre le train à Grenoble pour aller travailler à Annecy.",1
+"Je vais déménager de ma petite maison à Limoges pour une grande villa à Poitiers.",1
+"De mon travail à Bordeaux, je me rendrai à la gare pour prendre le train à Pau.",1
+"Mon voyage commence à la gare de Metz et se termine au port de Nancy.",1
+"Je pars de mon travail à Reims pour rejoindre mon conjoint à Charleville-Mézières.",1
+"J'ai besoin de prendre le train à Nice pour aller travailler à Cannes.",1
+"Je vais déménager de ma petite chambre à Annecy pour une grande maison à Chambéry.",1
+"De mon travail à Montpellier, je me rendrai à la gare pour prendre le train à Barcelone.",1
+"Mon voyage commence au port de Lorient et se termine à l'aéroport de Quimper.",1
+"Je pars de mon travail à Besançon pour rejoindre mon conjoint à Mulhouse.",1
+"J'ai besoin de prendre le train à Nevers pour aller travailler à Bourges.",1
+"Je vais déménager de ma petite maison à Perpignan pour une grande villa à Gérone.",1
+"De mon travail à Clermont-Ferrand, je me rendrai à la gare pour prendre le train à Toulouse.",1
+"Mon voyage commence à la gare de Nancy et se termine au port de Luxembourg.",1
+"Je pars de mon travail à Strasbourg pour rejoindre mon conjoint à Colmar.",1
+"J'ai besoin de prendre le train à Bordeaux pour aller travailler à Pau.",1
+"Je vais déménager de ma petite chambre à Rennes pour une grande maison à Saint-Malo.",1
+"De mon travail à Limoges, je me rendrai à la gare pour prendre le train à Brive-la-Gaillarde.",1
+"Mon voyage commence au port de Tours et se termine à l'aéroport d'Orléans.",1
+"Je pars de mon travail à Nevers pour rejoindre mon conjoint à Bourges.",1
+"J'ai besoin de prendre le train à Nice pour aller travailler à Antibes.",1
+"Je vais déménager de ma petite maison à Le Mans pour une grande villa à Rennes.",1
+"De mon travail à Angers, je me rendrai à la gare pour prendre le train à Nantes.",1
+"Mon voyage commence à la gare de Metz et se termine au port de Thionville.",1
+"Je pars de mon travail à Nancy pour rejoindre mon conjoint à Strasbourg.",1
+"J'ai besoin de prendre le train à Montélimar pour aller travailler à Valence.",1
+"Je vais déménager de ma petite chambre à Montélimar pour une grande maison à Crest.",1
+"De mon travail à Dijon, je me rendrai à la gare pour prendre le train à Besançon.",1
+"J'ai prévu de faire un tour en voiture autour du lac de Genève avec mes enfants.",1
+"Mon voyage commence au port de Lorient et se termine à l'aéroport de Vannes.",1
+"Je pars de mon travail à Belfort pour rejoindre mon conjoint à Mulhouse.",1
+"J'ai besoin de prendre le train à Nevers pour aller travailler à Bourges.",1
+"Je vais déménager de ma petite maison à Nîmes pour une grande villa à Orange.",1
+"De mon travail à Avignon, je me rendrai à la gare pour prendre le train à Marseille.",1
+"Mon voyage commence à la gare de Nancy et se termine au port de Thionville.",1
+"Je pars de mon travail à Colmar pour rejoindre mon conjoint à Strasbourg.",1
+"J'ai besoin de prendre le train à Bordeaux pour aller travailler à Pau.",1
+"Je vais déménager de ma petite chambre à Rennes pour une grande maison à Dinan.",1
+"De mon travail à Limoges, je me rendrai à la gare pour prendre le train à Brive-la-Gaillarde.",1
+"Mon voyage commence au port de Tours et se termine à l'aéroport d'Orléans.",1
+"Je pars de mon travail à Nevers pour rejoindre mon conjoint à Bourges.",1
+"J'ai besoin de prendre le train à Nice pour aller travailler à Antibes.",1
+"Je vais déménager de ma petite maison à Le Mans pour une grande villa à Rennes.",1
+"De mon travail à Angers, je me rendrai à la gare pour prendre le train à Nantes.",1
+"Mon voyage commence à la gare de Metz et se termine au port de Thionville.",1
+"Je pars de mon travail à Nancy pour rejoindre mon conjoint à Strasbourg.",1
+"J'ai besoin de prendre le train à Montélimar pour aller travailler à Valence.",1
+"Je vais déménager de ma petite chambre à Montélimar pour une grande maison à Crest.",1
+"De mon travail à Dijon, je me rendrai à la gare pour prendre le train à Besançon.",1
+"Mon voyage commence au port de Lorient et se termine à l'aéroport de Vannes.",1
+"Je pars de mon travail à Belfort pour rejoindre mon conjoint à Mulhouse.",1
+"J'ai besoin de prendre le train à Nevers pour aller travailler à Bourges.",1
+"Je vais déménager de ma petite maison à Nîmes pour une grande villa à Orange.",1
+"De mon travail à Avignon, je me rendrai à la gare pour prendre le train à Marseille.",1
+"Mon voyage commence à la gare de Nancy et se termine au port de Luxembourg.",1
+"Je pars de mon travail à Colmar pour rejoindre mon conjoint à Strasbourg.",1
+"J'ai besoin de prendre le train à Bordeaux pour aller travailler à Pau.",1
+"Je vais déménager de ma petite chambre à Rennes pour une grande maison à Dinan.",1
+"De mon travail à Limoges, je me rendrai à la gare pour prendre le train à Brive-la-Gaillarde.",1
+"Mon voyage commence au port de Tours et se termine à l'aéroport d'Orléans.",1
+"Je pars de mon travail à Nevers pour rejoindre mon conjoint à Bourges.",1
+"J'ai besoin de prendre le train à Nice pour aller travailler à Antibes.",1
+"Je vais déménager de ma petite maison à Le Mans pour une grande villa à Rennes.",1
+"De mon travail à Angers, je me rendrai à la gare pour prendre le train à Nantes.",1
+"Mon voyage commence à la gare de Metz et se termine au port de Thionville.",1
+"Je pars de mon travail à Nancy pour rejoindre mon conjoint à Strasbourg.",1
+"J'ai besoin de prendre le train à Montélimar pour aller travailler à Valence.",1
+"Je vais déménager de ma petite chambre à Montélimar pour une grande maison à Crest.",1
+"De mon travail à Dijon, je me rendrai à la gare pour prendre le train à Besançon.",1
+"Mon voyage commence au port de Lorient et se termine à l'aéroport de Vannes.",1
+"Je pars de mon travail à Belfort pour rejoindre mon conjoint à Mulhouse.",1
+"J'ai besoin de prendre le train à Nevers pour aller travailler à Bourges.",1
+"Je vais déménager de ma petite maison à Nîmes pour une grande villa à Orange.",1
+"De mon travail à Avignon, je me rendrai à la gare pour prendre le train à Marseille.",1
+"Mon voyage commence à la gare de Nancy et se termine au port de Luxembourg.",1
+"Je pars de mon travail à Colmar pour rejoindre mon conjoint à Strasbourg.",1
+"J'ai besoin de prendre le train à Bordeaux pour aller travailler à Pau.",1
+"Je vais déménager de ma petite chambre à Rennes pour une grande maison à Dinan.",1
+"De mon travail à Limoges, je me rendrai à la gare pour prendre le train à Brive-la-Gaillarde.",1
+"Mon voyage commence au port de Tours et se termine à l'aéroport d'Orléans.",1
+"Je pars de mon travail à Nevers pour rejoindre mon conjoint à Bour.",1
+"Comment se rendre de Saint-Étienne à Lyon ?", 1
+"Je fais un aller-retour entre Marseille et Nice.", 1
+"Quelle est la distance entre Grenoble et Annecy ?", 1
+"Peut-on aller de Rennes à Saint-Malo en train ?", 1
+"Je suis en chemin de Nice à Monaco.", 1
+"Quel temps prend le trajet de Dijon à Lyon ?", 1
+"Y a-t-il un train qui relie Brest à Quimper ?", 1
+"Je souhaite visiter Carcassonne après avoir quitté Narbonne.", 1
+"Peux-tu me dire comment aller de La Rochelle à Poitiers ?", 1
+"Est-ce qu'il existe une liaison entre Toulon et Hyères ?", 1
+"Je pars de Chartres pour rejoindre Orléans.", 1
+"Comment faire pour aller de Tours à Blois ?", 1
+"Est-ce que le trajet de Montpellier à Sète est agréable ?", 1
+"Je dois prendre un train de Metz à Strasbourg.", 1
+"Je compte aller de Gap à Embrun ce week-end.", 1
+"Peux-tu m'indiquer la route de Limoges à Brive ?", 1
+"Quel est le meilleur itinéraire de Marseille à Avignon ?", 1
+"Je suis en route pour Lille après avoir quitté Roubaix.", 1
+"Combien de temps pour aller de Reims à Chalons-en-Champagne ?", 1
+"Je prévois un voyage de Saint-Denis à Paris.", 1
+"Comment aller de Mulhouse à Colmar ?", 1
+"Je dois me rendre à Nantes depuis Angers.", 1
+"Quel est le trajet le plus rapide de Grenoble à Lyon ?", 1
+"Peux-tu me dire comment rejoindre La Rochelle depuis Niort ?", 1
+"Je fais une excursion de Bordeaux à Saint-Émilion.", 1
+"Est-ce que le chemin de Montpellier à Nîmes est bien indiqué ?", 1
+"Y a-t-il un train direct entre Toulouse et Tarbes ?", 1
+"Je dois aller de Dijon à Beaune demain.", 1
+"Quel est le meilleur moyen de rejoindre Amiens depuis Lille ?", 1
+"Je pars de Saint-Malo pour visiter Dinard.", 1
+"Comment aller de Valenciennes à Cambrai ?", 1
+"Je prévois de prendre le bus de Lyon à Annecy.", 1
+"Y a-t-il une route directe entre Alès et Nîmes ?", 1
+"Je dois aller à Marseille depuis Avignon.", 1
+"Peux-tu m'expliquer le chemin de Nancy à Metz ?", 1
+"Combien de temps faut-il pour aller de Rouen à Dieppe ?", 1
+"Je suis en route pour Strasbourg après avoir quitté Mulhouse.", 1
+"Y a-t-il un train de Bordeaux à Toulouse ?", 1
+"Comment se rendre de Clermont-Ferrand à Vichy ?", 1
+"Le Mont-Saint-Michel est magnifique au coucher du soleil.", 0
+"Paris est connue pour sa tour emblématique.", 0
+"Les plages de Biarritz attirent de nombreux surfeurs.", 0
+"Le Palais des Papes à Avignon est impressionnant.", 0
+"Strasbourg est célèbre pour son marché de Noël.", 0
+"Le château de Chambord est un chef-d'œuvre de la Renaissance.", 0
+"Les calanques de Cassis offrent des paysages à couper le souffle.", 0
+"Nice est réputée pour sa promenade en bord de mer.", 0
+"Le parc du Luxembourg est un endroit idéal pour se détendre.", 0
+"Marseille est une ville pleine de diversité culturelle.", 0
+"Les ruelles de Montmartre sont pleines de charme.", 0
+"Chamonix est le paradis des amateurs de montagne.", 0
+"Le Vieux-Lille a un caractère unique avec ses maisons colorées.", 0
+"Le marché de Rungis est le plus grand marché de produits frais au monde.", 0
+"Les jardins de Versailles sont absolument splendides.", 0
+"Le musée du Louvre abrite des milliers d'œuvres d'art.", 0
+"Avoriaz est une station de ski sans voitures.", 0
+"Lille est connue pour sa gastronomie et ses spécialités.", 0
+"Les rives de la Seine à Paris sont parfaites pour une promenade.", 0
+"Carcassonne est célèbre pour sa cité médiévale.", 0
+"À Lyon, j'ai goûté une délicieuse quenelle.", 0
+"À Nice, j'ai découvert un marché coloré.", 0
+"À Marseille, j'ai admiré le vieux port au lever du soleil.", 0
+"À Toulouse, j'ai trouvé un café charmant près de la place du Capitole.", 0
+"À Bordeaux, j'ai visité une magnifique cave à vin.", 0
+"À Strasbourg, j'ai photographié les maisons à colombages.", 0
+"À Nantes, j'ai exploré les Machines de l'île.", 0
+"À Lille, j'ai assisté à un concert dans une ancienne brasserie.", 0
+"À Montpellier, j'ai flâné dans les ruelles médiévales.", 0
+"À Avignon, j'ai vu un spectacle dans le Palais des Papes.", 0
+"À Dijon, j'ai savouré une moutarde artisanale.", 0
+"À Rouen, j'ai visité la cathédrale impressionnante.", 0
+"À Rennes, j'ai goûté des galettes succulentes.", 0
+"À Chambéry, j'ai découvert un beau lac en pleine nature.", 0
+"À Aix-en-Provence, j'ai admiré les œuvres de Cézanne.", 0
+"À Caen, j'ai visité le mémorial de la paix.", 0
+"À Annecy, j'ai profité d'une promenade au bord du lac.", 0
+"À Carcassonne, j'ai exploré la cité médiévale.", 0
+"À Avignon, j'ai apprécié un spectacle en plein air.", 0
+"À Montpellier, j'ai vu une exposition d'art contemporain.", 0
+"À Paris, le métro est un moyen pratique pour explorer la ville.", 0
+"À Lyon, les tramways facilitent les déplacements dans le centre.", 0
+"À Marseille, le ferry offre une vue magnifique sur le vieux port.", 0
+"À Nice, les vélos en libre-service permettent de profiter de la promenade.", 0
+"À Strasbourg, les bateaux-mouches offrent une visite originale de la ville.", 0
+"À Toulouse, le bus dessert efficacement les quartiers périphériques.", 0
+"À Nantes, le tramway est très apprécié pour sa rapidité.", 0
+"À Bordeaux, le tram est idéal pour visiter les vignobles environnants.", 0
+"À Rennes, les transports en commun sont bien organisés et accessibles.", 0
+"À Clermont-Ferrand, le funiculaire permet d'accéder facilement à la colline.", 0
+"À Lille, les métros souterrains sont très fréquents et pratiques.", 0
+"À Grenoble, les téléphériques offrent des panoramas spectaculaires sur les montagnes.", 0
+"À Avignon, les calèches ajoutent un charme particulier aux visites touristiques.", 0
+"À Dijon, le tramway moderne relie les principaux sites historiques.", 0
+"À Montpellier, les navettes facilitent l'accès aux plages en été.", 0
+"À Caen, les bus permettent de se rendre facilement aux plages du débarquement.", 0
+"À Aix-en-Provence, le vélo est un moyen populaire pour découvrir les environs.", 0
+"À Annecy, les promenades en bateau sur le lac sont très appréciées.", 0
+"À Rouen, le tramway rend les visites des musées plus accessibles.", 0
+"Le métro à Paris est un moyen pratique pour explorer la ville.", 0
+"Les tramways à Lyon facilitent les déplacements dans le centre.", 0
+"Le ferry à Marseille offre une vue magnifique sur le vieux port.", 0
+"Les vélos en libre-service à Nice permettent de profiter de la promenade.", 0
+"Les bateaux-mouches à Strasbourg offrent une visite originale de la ville.", 0
+"Le bus à Toulouse dessert efficacement les quartiers périphériques.", 0
+"Le tramway à Nantes est très apprécié pour sa rapidité.", 0
+"Le tram à Bordeaux est idéal pour visiter les vignobles environnants.", 0
+"Les transports en commun à Rennes sont bien organisés et accessibles.", 0
+"Le funiculaire à Clermont-Ferrand permet d'accéder facilement à la colline.", 0
+"Les métros souterrains à Lille sont très fréquents et pratiques.", 0
+"Les téléphériques à Grenoble offrent des panoramas spectaculaires sur les montagnes.", 0
+"Les calèches à Avignon ajoutent un charme particulier aux visites touristiques.", 0
+"Le tramway moderne à Dijon relie les principaux sites historiques.", 0
+"Les navettes à Montpellier facilitent l'accès aux plages en été.", 0
+"Les bus à Caen permettent de se rendre facilement aux plages du débarquement.", 0
+"Le vélo à Aix-en-Provence est un moyen populaire pour découvrir les environs.", 0
+"Les promenades en bateau sur le lac à Annecy sont très appréciées.", 0
+"Le tramway à Rouen rend les visites des musées plus accessibles.", 0  
+"À Paris, j'ai trouvé un restaurant servant des spécialités de Marseille.", 0
+"À Lyon, j'ai rencontré un ami qui venait de Montpellier.", 0
+"À Nice, j'ai acheté des souvenirs pour ma famille à Lille.", 0
+"À Bordeaux, j'ai dégusté du vin provenant de Dijon.", 0
+"À Strasbourg, j'ai appris des histoires sur la ville de Metz.", 0
+"À Toulouse, j'ai visité une exposition sur l'architecture de Nantes.", 0
+"À Lille, j'ai vu un film qui parlait de la culture de Lyon.", 0
+"À Rennes, j'ai discuté avec des étudiants venus de Caen.", 0
+"À Marseille, j'ai découvert des recettes traditionnelles de Nice.", 0
+"À Aix-en-Provence, j'ai lu un livre sur l'histoire de Toulouse.", 0
+"À Annecy, j'ai admiré des paysages peints par des artistes de Chamonix.", 0
+"À Dijon, j'ai goûté des plats typiques de Strasbourg.", 0
+"À Montpellier, j'ai vu une exposition sur la musique de Bordeaux.", 0
+"À Avignon, j'ai assisté à un spectacle inspiré par la danse de Paris.", 0
+"À Grenoble, j'ai exploré des sentiers qui mènent à Chamonix.", 0
+"À Caen, j'ai rencontré des touristes venant de Rouen.", 0
+"À Marseille, j'ai entendu des histoires sur les traditions de Nice.", 0
+"À Nantes, j'ai pris un café en pensant à mes vacances à Lyon.", 0
+"À Toulouse, j'ai visité une galerie d'art consacrée à des artistes de Bordeaux.", 0
+"Paris est célèbre pour ses boulangeries inspirées par celles de Lyon.", 0
+"Montpellier a un climat agréable, tout comme Nice.", 0
+"Bordeaux possède des vignobles réputés, tout comme ceux de Dijon.", 0
+"Strasbourg est connue pour sa culture, tout comme celle de Nantes.", 0
+"Rennes a une ambiance festive qui rappelle celle de Lille.", 0
+"Toulouse est magnifique en été, tout comme Marseille.", 0
+"Nice est réputée pour ses plages, tout comme celles de Saint-Tropez.", 0
+"Caen a une histoire fascinante, tout comme celle de Rouen.", 0
+"Grenoble est entourée de montagnes, tout comme Chamonix.", 0
+"Annecy est un joyau alpin, tout comme Briançon.", 0
+"Lyon regorge de bons restaurants, tout comme ceux de Strasbourg.", 0
+"Dijon est célèbre pour sa gastronomie, comme Marseille.", 0
+"Avignon a un riche patrimoine, Carcassonne aussi.", 0
+"Nantes a un dynamisme culturel qui rappelle celui de Toulouse.", 0
+"Clermont-Ferrand est connue pour son festival, tout comme celui d'Avignon.", 0
+"Lille a une architecture unique, tout comme celle de Rennes.", 0
+"Montpellier offre une belle ambiance, tout comme Aix-en-Provence.", 0
+"Brest est une ville portuaire, tout comme Saint-Nazaire.", 0
+"Rouen a une belle cathédrale, tout comme celle de Reims.", 0
+"Paris a des cafés charmants, ce qui rappelle l'atmosphère de Lyon.", 0
+"Montpellier est ensoleillée, semblable à Nice.", 0
+"Bordeaux est célèbre pour ses vins, à l'instar de Dijon.", 0
+"Strasbourg est riche en histoire, tout comme Nantes.", 0
+"Rennes a une vie nocturne animée, similaire à celle de Lille.", 0
+"Toulouse offre une belle architecture, évoquant celle de Marseille.", 0
+"Nice attire de nombreux touristes, de la même manière que Saint-Tropez.", 0
+"Caen présente un patrimoine fascinant, à l'image de Rouen.", 0
+"Grenoble est entourée de montagnes, ce qui est également le cas à Chamonix.", 0
+"Annecy est un joyau alpin, comparable à Briançon.", 0
+"Lyon regorge de restaurants raffinés, comme ceux de Strasbourg.", 0
+"Dijon est réputée pour sa cuisine, semblable à celle de Marseille.", 0
+"Avignon possède un riche patrimoine, semblable à celui de Carcassonne.", 0
+"Nantes est dynamique culturellement, tout comme Toulouse.", 0
+"Clermont-Ferrand est connue pour son festival, semblable à celui d'Avignon.", 0
+"Lille a une architecture distincte, rappelant celle de Rennes.", 0
+"Montpellier offre une ambiance vivante, comparable à celle d'Aix-en-Provence.", 0
+"Brest est une ville maritime, similaire à Saint-Nazaire.", 0
+"Rouen abrite une belle cathédrale, comme celle de Reims.", 0
+"Le Château de Chenonceau est un exemple d'architecture française.", 0
+"Les marchés provençaux offrent une variété de produits frais.", 0
+"Le Pont du Gard est un site historique impressionnant.", 0
+"Les ruines de Pompeii attirent de nombreux visiteurs.", 0
+"La Côte d'Azur est réputée pour ses stations balnéaires.", 0
+"Les champs de lavande en Provence sont magnifiques en été.", 0
+"Les vins de Bordeaux sont appréciés dans le monde entier.", 0
+"La gastronomie française est connue pour sa diversité.", 0
+"Le Musée d'Orsay abrite des œuvres impressionnistes.", 0
+"Les festivals de musique en été attirent des foules.", 0
+"Les jardins de Monet à Giverny sont un endroit idyllique.", 0
+"Les spécialités fromagères de France sont variées.", 0
+"La plage de Deauville est populaire auprès des parisiens.", 0
+"Les Alpes françaises sont idéales pour le ski.", 0
+"Le Carnaval de Nice est l'un des plus célèbres.", 0
+"Les châteaux de la Loire sont magnifiques à visiter.", 0
+"Les falaises d'Étretat offrent un paysage unique.", 0
+"La gastronomie lyonnaise est célèbre pour ses bouchons.", 0
+"Les festivals de cinéma en France attirent des célébrités.", 0
+"Les parcs d'attractions en France sont adaptés aux familles.", 0
+"Les plages de Normandie sont historiques.", 0
+"Les villes médiévales en France conservent un charme ancien.", 0
+"Les vignobles de Bourgogne sont réputés dans le monde entier.", 0
+"Le Puy du Fou est un parc à thème historique.", 0
+"Les ruelles de la vieille ville de Nice sont pittoresques.", 0
+"Les villages de Provence sont remplis de caractère.", 0
+"La danse folklorique est une tradition en France.", 0
+"Les fontaines de la Place de la Concorde sont impressionnantes.", 0
+"Le jardin des Tuileries est un lieu de détente à Paris.", 0
+"Les bouquinistes le long de la Seine vendent des livres anciens.", 0
+"Les spécialités culinaires de la Bretagne sont délicieuses.", 0
+"Les petits cafés parisiens sont parfaits pour un après-midi.", 0
+"La Fête de la Musique célèbre les artistes locaux.", 0
+"Les côtes bretonnes offrent des paysages à couper le souffle.", 0
+"Les musées de France abritent des œuvres d'art célèbres.", 0
+"La cathédrale de Strasbourg est un chef-d'œuvre de l'architecture.", 0
+"Les parcs nationaux de France protègent la biodiversité.", 0
+"Les maisons à colombages sont typiques de la région.", 0
+"Le Festival d'Avignon est un événement théâtral majeur.", 0
+"Les ruines romaines en France témoignent d'un riche passé.", 0
+"Les arts de la table en France sont très appréciés.", 0
+"Les promenades au bord de la Loire sont très appréciées.", 0
+"Le Mont Blanc est le sommet le plus haut des Alpes.", 0
+"Le Carnaval de Dunkerque est unique en son genre.", 0
+"Les sentiers côtiers en Bretagne sont parfaits pour la randonnée.", 0
+"Les épiceries fines en France proposent des délices locaux.", 0
+"Les marchés de Noël en Alsace sont féériques.", 0
+"Les baies de Saint-Malo sont un endroit idéal pour se promener.", 0
+"Les châteaux forts de la Loire sont impressionnants.", 0
+"Les festivals de la gastronomie attirent de nombreux gourmets.", 0
+"Les balades en bateau sur la Seine offrent une belle vue.", 0
+"Le parc des Buttes-Chaumont à Paris est un havre de paix.", 0
+"Les vignobles de Champagne sont renommés pour leur qualité.", 0
+"Les plages de la Côte d'Opale sont magnifiques.", 0
+"Les villages perchés du sud de la France sont pittoresques.", 0
+"Les calanques de Marseille sont un lieu de beauté naturelle.", 0
+"Les festivals de théâtre en été attirent des spectateurs.", 0
+"Les parcs d'attractions en France offrent du divertissement pour tous.", 0
+"Les ruines d'Alesia sont un site archéologique fascinant.", 0
+"Les galeries d'art à Paris sont une richesse culturelle.", 0
+"Les jardins de la Fontaine à Nîmes sont apaisants.", 0
+"Le Parc Astérix est une attraction familiale populaire.", 0
+"Les événements sportifs en France attirent de nombreux fans.", 0
+"Les festivals de jazz à Marciac sont renommés.", 0
+"Les spécialités culinaires régionales sont à découvrir.", 0
+"Les paysages de la vallée de la Loire sont enchanteurs.", 0
+"Les remparts de Carcassonne sont impressionnants.", 0
+"Les couleurs d'automne en forêt de Fontainebleau sont magnifiques.", 0
+"Les rues animées de Montpellier sont pleines de vie.", 0
+"Les marchés d'artisanat en été attirent des visiteurs.", 0
+"Les rives de la Seine sont parfaites pour une promenade.", 0
+"Les cyclistes apprécient les pistes cyclables en France.", 0
+"Les festivals de cinéma à Cannes sont prestigieux.", 0
+"Les spécialités de la région sont souvent à base de fromage.", 0
+"Les soirées d'été à Paris sont pleines de charme.", 0
+"Les cabarets parisiens offrent des spectacles variés.", 0
+"Les paysages de la région Provence-Alpes-Côte d'Azur sont variés.", 0
+"Les anciens quartiers de Marseille sont chargés d'histoire.", 0
+"Les traditions de Noël en France sont festives.", 0
+"Les ateliers d'artisanat à Lyon sont fascinants.", 0
+"Les terrasses de café sont idéales pour observer la ville.", 0
+"Les jardins de Versailles sont un exemple de beauté.", 0
+"Les spécialités de la Loire sont appréciées des gourmets.", 0
+"Les concerts en plein air sont populaires en été.", 0
+"Les maisons en pierre dans le sud de la France sont charmantes.", 0
+"Les festivals de musique classique sont bien établis.", 0
+"Les ruines de Vienne témoignent de l'époque romaine.", 0
+"Les marchés aux puces à Paris sont un endroit unique.", 0
+"Les balades en bateau sur les canaux de Strasbourg sont agréables.", 0
+"Les plages de l'Atlantique sont parfaites pour le surf.", 0
+"Les spécialités de charcuterie en France sont renommées.", 0
+"Les promenades dans les forêts sont rafraîchissantes.", 0
+"Les manifestations culturelles en France sont diverses.", 0
+"Les visites guidées à Paris offrent des expériences uniques.", 0
+"Les événements historiques en France attirent des passionnés.", 0
+"Les rives de la Garonne sont propices à la détente.", 0
+"Les paysages de la Côte d'Armor sont pittoresques.", 0
+"Les festivals de danse attirent des spectateurs de tous horizons.", 0
+"Les festivals de rue à Paris sont vibrants.", 0
+"Les balades à vélo dans les vignobles sont agréables.", 0

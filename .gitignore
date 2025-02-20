@@ -1,0 +1,15 @@
+project/first_model NLP/valid_sentences_test_dataset.csv
+project/first_model NLP/invalid_sentences_test_dataset.csv
+project/first_model NLP/valid_sentences_train_dataset.csv
+project/first_model NLP/invalid_sentences_train_dataset.csv
+project/first_model NLP/results/*
+project/first_model NLP/communes-departement-region.csv
+project/first_model NLP/saved_model/*
+project/second_model NER/ner_sentences_dataset.csv
+project/second_model NER/results/*
+project/second_model NER/communes-departement-region.csv
+project/second_model NER/saved_model/*
+
+pipeline/venv/
+pipeline/__pycache__/
+pipeline/gtfs/*
